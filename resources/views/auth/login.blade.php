@@ -21,7 +21,7 @@
     <div id="app">
         <section class="section">
             <div class="d-flex flex-wrap align-items-stretch">
-                <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
+                <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-success text-white">
                     <div class="p-4 m-3">
                         <img src="../assets/img/mtsmifinmini.png" alt="logo" width="80" class="shadow-light rounded-circle mb-5 mt-2">
                         <h5 class="text-dark font-weight-normal">Aplikasi <span class="font-weight-bold">Inventaris Barang Sekolah</span></h5>
@@ -56,7 +56,7 @@
                             </div>
 
                             <div class="form-group text-right">
-                                <button type="submit" class="btn btn-success btn-lg btn-icon icon-right" tabindex="4">
+                                <button type="submit" class="btn btn-primary btn-lg btn-icon icon-right" tabindex="4">
                                     Login
                                 </button>
                             </div>
