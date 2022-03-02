@@ -63,7 +63,7 @@
                         </form>
 
                         <div class="text-center mt-5 text-small">
-                            Copyright &copy; Inven-BS. Made with 💙 by Herman
+                            Copyright &copy; Inven-MIFIN. Made with 💙 by Herman
                         </div>
                     </div>
                 </div>
